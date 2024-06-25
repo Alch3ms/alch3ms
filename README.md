@@ -1,5 +1,4 @@
 ## Hi there, Alch3ms <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-![Endpoint Badge](https://img.shields.io/endpoint?url=alchems.com)
 
 ### Social
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](mailto:alchems4@protonmail.com)
