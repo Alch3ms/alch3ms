@@ -1,4 +1,5 @@
 ## Hi there, Alch3ms <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+![Endpoint Badge](https://img.shields.io/endpoint?url=alchems.com)
 
 ### Social
 [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](mailto:alchems4@protonmail.com)
@@ -8,7 +9,6 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://www.github.com)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)](https://www.gitlab.com)
-[![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)](https://bitbucket.org/)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 [![Windows 10](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](https://www.postman.com)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
