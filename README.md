@@ -7,7 +7,7 @@
 ### 👨‍💻 About
 - 🚀 I am a software developer open to learning and growth. I share my small-scale projects here. Check out my profile for details!
 - 🌱 I'm currently **Improving Myself**
-- 💻 **Next.js, Prisma**, veritabanı yönetimi (**PostgreSQL, MongoDB**) ve Linux sunucu mimarileri (**Ubuntu, PM2**) konularında aktif olarak geliştirme yapıyorum.
+- 💻 I am actively developing with **Next.js, Prisma**, database management (**PostgreSQL, MongoDB**) and Linux server architectures (**Ubuntu, PM2**).
 - 📫 How to reach me: **alchems4@protonmail.com**
 
 ---
